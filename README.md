@@ -1,4 +1,4 @@
-# marlon_logfile
+# logfile_analysis_for_random_experiment
 
 A small program to extract data from a expiremts. The experiment was part of a master thesis of a friend of mine.
 
